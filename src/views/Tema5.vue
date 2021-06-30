@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 5
-      h1 Medios de Transmisión
+      h1 Medios de transmisión
     figure.mb-5
       img(src='@/assets/curso/img16.jpg', alt='Texto que describa la imagen')
     p.mb-5 A continuación, se le invita a revisar el concepto de medios de transmisión y los tipos de medios tanto guiado como no guiados. 

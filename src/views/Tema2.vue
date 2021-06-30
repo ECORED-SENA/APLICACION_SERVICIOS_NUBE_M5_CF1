@@ -8,13 +8,13 @@
       h1 Modelos de referencia
     .row.mb-5.justify-content-between
       .col-lg-6
-        p Los modelos de referencia se basan en la definición de una serie de capas las cuales tienen cada una sus propias funciones y características que se encargan de resolver un problema diferente en la comunicación, cada fase tiene un orden específico y cada una se sustenta en la capa anterior. 
+        p Los modelos de referencia se basan en la definición de una serie de capas, las cuales tienen cada una sus propias funciones y características, que se encargan de resolver un problema diferente en la comunicación; cada fase tiene un orden específico y cada una se sustenta en la capa anterior. 
           br
           br
-          |Los modelos de referencia tienen como propósito asistir en la comprensión más clara y sencilla de las funciones y los procesos involucrados en la interconexión de los diferentes dispositivos de red, para ello se establecen una serie de capas, que más que entrar en los detalles de las especificaciones técnicas requeridas en cada una de ellas, el modelo de referencia ayuda en la comprensión de lo que sucede, ayudando a lograr un mejor entendimiento de las funciones y procesos involucrados.
+          |Los modelos de referencia tienen como propósito asistir en la comprensión más clara y sencilla de las funciones y los procesos involucrados en la interconexión de los diferentes dispositivos de red, para ello se establecen una serie de capas, que más que entrar en los detalles de las especificaciones técnicas requeridas en cada una de ellas, el modelo de referencia ayuda en la comprensión de lo que sucede, contribuyendo en el logro de un mejor entendimiento de las funciones y procesos involucrados.
           br
           br
-          |Al inicio del desarrollo de la tecnología y más propiamente de la computación, los diferentes fabricantes construían sus equipos y dispositivos para que fueran compatibles con dispositivos de sus propias marcas, lo que no facilitaba la interconexión de equipos y dispositivos de fabricantes distintos. Esto llevó a la necesidad de estandarizar de manera que se permita la interconexión de una amplia gama de dispositivos sin importar fabricante o tipo de software. Para que el intercambio de información sea posible se requiere el establecimiento de una serie de estándares.
+          |Al inicio del desarrollo de la tecnología y más propiamente de la computación, los diferentes fabricantes construían sus equipos y dispositivos para que fueran compatibles con dispositivos de sus propias marcas, lo que no facilitaba la interconexión de equipos y dispositivos de fabricantes distintos. Esto llevó a la necesidad de estandarizar, de manera que se permita la interconexión de una amplia gama de dispositivos, sin importar fabricante o tipo de software. Para que el intercambio de información sea posible se requiere el establecimiento de una serie de estándares.
       .col-lg-5
         figure
           img(src='@/assets/curso/img3.jpg', alt='Texto que describa la imagen')

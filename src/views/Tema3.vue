@@ -9,17 +9,17 @@
     .row.justify-content-between.mb-5
       .col-lg-5
         .cajon.color-acento-contenido.p-5.mb-4
-          p Las comunicaciones en general requieren de una serie de elementos y actores que intervienen dentro de los cuales se pueden encontrar, el emisor que es el encargado de del origen del mensaje, en este se relacionan las personas o los dispositivos; el destino quien es el receptor del mensaje y también se constituye de personas o dispositivos; el canal que son los medios por lo que el mensaje viaja; el código cuyo lenguaje es utilizado para formar el mensaje; por último, precisamente se tiene el mensaje que es el elemento a transmitir. 
+          p Las comunicaciones en general requieren de una serie de elementos y actores que intervienen, dentro de los cuales se pueden encontrar, el emisor, que es el encargado del origen del mensaje, en este se relacionan las personas o los dispositivos; el destino, quien es el receptor del mensaje y también se constituye de personas o dispositivos; el canal, que son los medios por lo que el mensaje viaja; el código, cuyo lenguaje es utilizado para formar el mensaje; y por último, precisamente, se tiene el mensaje que es el elemento a transmitir.  
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Figura 2. Elementos de una comunicación
         figure
           img(src='@/assets/curso/img10.svg', alt='Texto que describa la imagen')
-          figcaption Fuente: SENA, 2021
-    p.mb-5 Como se evidencia en la figura anterior, toda comunicación requiere contar con un emisor un mensaje a enviar y un código que permite que el mensaje viaje por un canal, para que ambos actores puedan interactuar requieren contar con un código o lenguaje común que permita que puedan entenderse, ese estándar o lenguaje común es lo que conocemos como un protocolo de comunicaciones, el cual es un conjunto de normas que están obligadas a cumplir todos los dispositivos, hardware y software que intervienen en una comunicación de datos entre computadoras y demás dispositivos, sin estas reglas o estándares la comunicación resultaría caótica y por tanto imposible.
+          figcaption Fuente: SENA, 2021.
+    p.mb-5 Como se evidencia en la figura anterior, toda comunicación debe contar con un emisor, un mensaje a enviar y un código que permite que el mensaje viaje por un canal. Para que ambos actores puedan interactuar se requiere contar con un código o lenguaje común, el cual permite que se puedan entender; ese estándar o lenguaje común, es lo que conocemos como un protocolo de comunicaciones, el cual es un conjunto de normas que están obligadas a cumplir todos los dispositivos, hardware y software que intervienen en una comunicación de datos entre computadoras y demás dispositivos, sin estas reglas o estándares la comunicación resultaría caótica y por tanto imposible.
       br
       br
-      |Dependiendo de los servicios a los cuales accedemos a través de las redes de computadores será el protocolo de comunicación que se deberá emplear en la comunicación entre el usuario que solicita y accede al servicio y el dispositivo quien se lo entrega, en general en la transmisión y recepción de los datos podemos encontrar dos grandes familias de protocolos que se resumen en:
+      |Dependiendo de los servicios a los cuales accedemos a través de las redes de computadores, se define el protocolo de comunicación que se deberá emplear en la interacción entre el usuario que solicita y accede al servicio, y el dispositivo que se lo entrega; en general en la transmisión y recepción de los datos podemos encontrar dos grandes familias de protocolos que se resumen en:
     .titulo-sexto.color-acento-contenido
       h5 Figura 3. Protocolos de conexión
     .tarjeta--container.row.mb-5
@@ -49,7 +49,7 @@
       h5 Figura 4. Suite de Protocolos según el modelo de referencia.
     figure
       img.mb-3(src='@/assets/curso/img13.svg', alt='Texto que describa la imagen')
-      figcaption Fuente: SENA, 2021
+      figcaption Fuente: SENA, 2021.
 
 
 

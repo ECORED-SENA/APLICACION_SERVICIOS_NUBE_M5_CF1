@@ -8,7 +8,7 @@
       h1 Recursos compartidos
     figure.mb-5
       img(src='@/assets/curso/img26.jpg', alt='Texto que describa la imagen')
-    p.mb-5 Las redes de datos facilitan y potencian el trabajo en red entre los diferentes usuarios y dispositivos de tal manera que se pueda acceder a dispositivos y recursos compartidos, cuando mencionamos los recursos nos referimos a todos esos elementos tanto hardware como software que pueden compartidos y utilizados por los diferentes dispositivos conectados, estos recursos pueden ser desde el punto de vista hardware:
+    p.mb-5 Las redes de datos facilitan y potencian el trabajo en red entre los diferentes usuarios y dispositivos, de tal manera que se pueda acceder a dispositivos y recursos compartidos. Cuando mencionamos los recursos nos referimos a todos esos elementos tanto hardware como software que pueden ser compartidos y utilizados por los diferentes dispositivos conectados, estos recursos pueden ser desde el punto de vista hardware:
     .row.mb-5.justify-content-center
       .col-lg-4
         .tarjeta-iconos.amarillo-claro.p-3.d-flex.m-3

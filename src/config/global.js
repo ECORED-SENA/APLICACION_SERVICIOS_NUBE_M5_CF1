@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Conceptos básicos de redes y networking',
     descripcionCurso:
-      'Las redes de datos son aquellas que permiten interconectar diferentes dispositivos con el propósito de compartir recursos e información. Para que la comunicación se de, requiere de una serie de elementos y componentes que la faciliten entre estos, dispositivos y otras redes, para que incremente la productividad y facilite el acceso a los recursos.',
+      'Las redes de datos son aquellas que permiten interconectar diferentes dispositivos con el propósito de compartir recursos e información. Para que la comunicación se dé, se requiere de una serie de elementos y componentes que la faciliten, como dispositivos y otras redes, para que incremente la productividad y facilite el acceso a los recursos.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -51,7 +51,7 @@ export default {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: 'Medios de Transmisión',
+        titulo: 'Medios de transmisión',
         desarrolloContenidos: true,
       },
       {
@@ -154,7 +154,7 @@ export default {
     {
       termino: 'Networking',
       significado:
-        'trabajo en equipo, colaborativo y la integración entre los diferentes recursos tecnológicos que permiten potenciar y maximizar el potencial de las redes de datos.',
+        'trabajo en equipo, colaborativo e integración entre los diferentes recursos tecnológicos que permiten potenciar y maximizar el potencial de las redes de datos.',
     },
     {
       termino: 'OSI',
@@ -168,7 +168,7 @@ export default {
     {
       termino: 'Redes de datos',
       significado:
-        'conjunto equipos (computadoras y dispositivos), conectados por medio de cables, señales, ondas o cualquier otro método de transporte de datos, para compartir información (archivos), recursos (discos, impresoras, programas, etc.) y servicios (acceso a una base de datos, internet, correo electrónico, chat, juegos, etc.).',
+        'conjunto de equipos (computadoras y dispositivos), conectados por medio de cables, señales, ondas o cualquier otro método de transporte de datos, para compartir información (archivos), recursos (discos, impresoras, programas, etc.) y servicios (acceso a una base de datos, internet, correo electrónico, chat, juegos, etc.).',
     },
     {
       termino: 'Puerto de comunicación',
@@ -203,29 +203,26 @@ export default {
     ],
     contenidoInstruccional: [
       {
-        nombre: 'Jonathan Guerrero Astaiza',
-        cargo: 'Experto temátic',
-        centro: 'Centro de teleinformática y producción industrial',
-        regional: 'Regional Cauca',
-      },
-      {
-        nombre: 'Paula Andrea Taborda Ortiz',
-        cargo: 'Diseñadora instruccional',
-        centro: 'Centro de diseño y metrología',
-        regional: 'Regional distrito capital',
-      },
-      {
-        nombre: 'Alix Cecilia Chinchilla Rueda',
-        cargo: 'Evaluadora instruccional',
-        centro: 'Centro de Gestión Industrial.',
-        regional: 'Regional distrito capital',
-      },
-      {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
-        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'Jonathan Guerrero Astaiza',
+        cargo: 'Experto temátic',
+        centro:
+          'Centro de teleinformática y producción industrial Regional Cauca',
+      },
+      {
+        nombre: 'Paula Andrea Taborda Ortiz',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de diseño y metrología Regional distrito capital',
+      },
+      {
+        nombre: 'Alix Cecilia Chinchilla Rueda',
+        cargo: 'Evaluadora instruccional',
+        centro: 'Centro de Gestión Industrial Regional distrito capital',
       },
     ],
     desarrolloProducto: [
