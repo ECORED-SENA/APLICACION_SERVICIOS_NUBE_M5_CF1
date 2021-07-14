@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Emparejamiento entre término y definición
-        p.mb-4 La actividad planteada consiste en organizar dos columnas en una se deben poner los términos y en otra columna aparte las definiciones, el objetivo es que el aprendiz haga la unión entre término y definición, de esta manera podrá hacer un repaso general del desarrollo de este primer componente formativo.
+        p.mb-4 La actividad planteada consiste en organizar dos columnas, en una se deben poner los términos y en otra columna aparte las definiciones, el objetivo es que el aprendiz haga la unión entre término y definición, de esta manera podrá hacer un repaso general del desarrollo de este primer componente formativo.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

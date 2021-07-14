@@ -224,6 +224,12 @@ export default {
         cargo: 'Evaluadora instruccional',
         centro: 'Centro de Gestión Industrial Regional distrito capital',
       },
+      {
+        nombre: 'Jhana Johanna Bustillo Ardila',
+        cargo: 'Revisión de estilo',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
     ],
     desarrolloProducto: [
       {
@@ -256,7 +262,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Veimar Celis Melendez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

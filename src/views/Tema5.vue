@@ -28,39 +28,40 @@
         figure.mb-5
           img(src='@/assets/curso/img19.svg', alt='Texto que describa la imagen')
         h4.text-center Fibra Óptica
-    p.mb-5 Las señales que transportan cada medio son distintas por ejemplo en la fibra óptica los que se lleva son pulsos de luz, no eléctricos, mientras que el cobre transporta impulsos eléctricos.
+    p.mb-5 Las señales que transportan cada medio son distintas por ejemplo, en la fibra óptica los que se lleva son pulsos de luz, no eléctricos, mientras que el cobre transporta impulsos eléctricos.
       br
       br
       |Los medios de transmisión no guiados son aquellos cables que transportan ondas electromagnéticas sin usar un conductor físico, sino que se radian a través del aire, por lo que están disponibles para cualquiera que tenga un dispositivo capaz de aceptarlas. Normalmente utilizan el aire como el medio a través del cual viajan las señales en frecuencias electromagnéticas, por lo que generalmente requieren de una antena que permita transmitir y recibir datos de diferentes tipos.
       br
       br
       |Dentro de los medios de transmisión no guiados se puede encontrar:
-    .row.mb-1.justify-content-center
-      .col-lg-4
-        .tarjeta-iconos.amarillo-claro.p-3.d-flex.m-3
-          img(src='@/assets/curso/img20.svg', alt='Texto que describa la imagen')
-          h4.ms-5.ps-5.py-3.mb-0.text-center Radiofrecuencias
-      .col-lg-4
-        .tarjeta-iconos.amarillo-claro.p-3.d-flex.m-3
-          img(src='@/assets/curso/img21.svg', alt='Texto que describa la imagen')
-          h4.ms-5.ps-5.py-3.mb-0.text-center Microondas
-      .col-lg-4
-        .tarjeta-iconos.amarillo-claro.p-3.d-flex.m-3
-          img(src='@/assets/curso/img22.svg', alt='Texto que describa la imagen')
-          h4.ms-5.ps-5.py-3.mb-0.text-center Infrarrojos
-    .row.mb-5.justify-content-center
-      .col-lg-4
-        .tarjeta-iconos.amarillo-claro.p-3.d-flex.m-3
-          img(src='@/assets/curso/img23.svg', alt='Texto que describa la imagen')
-          h4.ms-5.ps-5.py-3.mb-0.text-center Bluetooth
-      .col-lg-4
-        .tarjeta-iconos.amarillo-claro.p-3.d-flex.m-3
-          img(src='@/assets/curso/img24.svg', alt='Texto que describa la imagen')
-          h4.ms-5.ps-5.py-3.mb-0.text-center Wifi
-      .col-lg-4
-        .tarjeta-iconos.amarillo-claro.p-3.d-flex.m-3
-          img(src='@/assets/curso/img25.svg', alt='Texto que describa la imagen')
-          h4.ms-5.ps-5.py-3.mb-0.text-center Satelital
+    div
+      .row.mb-5.d-flex.justify-content-center
+        .col-lg-4
+          .tarjeta-iconos.amarillo-claro.p-3.d-flex.m-3
+            img(src='@/assets/curso/img20.svg', alt='Texto que describa la imagen')
+            h4.ps-5.py-3.mb-0.text-center Radiofrecuencias
+        .col-lg-4
+          .tarjeta-iconos.amarillo-claro.p-3.d-flex.m-3
+            img(src='@/assets/curso/img21.svg', alt='Texto que describa la imagen')
+            h4.ps-5.py-3.mb-0.text-center Microondas
+        .col-lg-4
+          .tarjeta-iconos.amarillo-claro.p-3.d-flex.m-3
+            img(src='@/assets/curso/img22.svg', alt='Texto que describa la imagen')
+            h4.ps-5.py-3.mb-0.text-center Infrarrojos
+      .row.mb-5.justify-content-center
+        .col-lg-4
+          .tarjeta-iconos.amarillo-claro.p-3.d-flex.m-3
+            img(src='@/assets/curso/img23.svg', alt='Texto que describa la imagen')
+            h4.ps-5.py-3.mb-0.text-center Bluetooth
+        .col-lg-4
+          .tarjeta-iconos.amarillo-claro.p-3.d-flex.m-3
+            img(src='@/assets/curso/img24.svg', alt='Texto que describa la imagen')
+            h4.ps-5.py-3.mb-0.text-center Wifi
+        .col-lg-4
+          .tarjeta-iconos.amarillo-claro.p-3.d-flex.m-3
+            img(src='@/assets/curso/img25.svg', alt='Texto que describa la imagen')
+            h4.ps-5.py-3.mb-0.text-center Satelital
 
 
 

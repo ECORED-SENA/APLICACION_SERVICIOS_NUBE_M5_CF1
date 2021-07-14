@@ -11,8 +11,8 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/LZ9YhX64cm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Conceptos básicos de redes y networking
     
     p.mb-5 En este material se estudiarán los principios básicos de las redes de datos, sus componentes tanto físicos como lógicos, su interacción y comunicación. La fundamentación facilitará el acceso a recursos compartidos, incrementando su productividad. Se conocerá la definición y generalidades de las redes de datos, en la cual se comprenderá por qué son importantes, así mismo, se abordará los diferentes modelos de referencia, como lo son: ISO, IEEE, OSI, ANSI, EIA, TIA, UIT. Se llegará a los protocolos de comunicación donde se conocerá sobre el emisor, destino, canal, código y mensaje, lo que permite que haya un ciclo adecuado en la comunicación.
       br

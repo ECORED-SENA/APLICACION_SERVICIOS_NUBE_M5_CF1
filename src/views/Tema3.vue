@@ -12,10 +12,10 @@
           p Las comunicaciones en general requieren de una serie de elementos y actores que intervienen, dentro de los cuales se pueden encontrar, el emisor, que es el encargado del origen del mensaje, en este se relacionan las personas o los dispositivos; el destino, quien es el receptor del mensaje y también se constituye de personas o dispositivos; el canal, que son los medios por lo que el mensaje viaja; el código, cuyo lenguaje es utilizado para formar el mensaje; y por último, precisamente, se tiene el mensaje que es el elemento a transmitir.  
       .col-lg-6
         .titulo-sexto.color-acento-contenido
-          h5 Figura 2. Elementos de una comunicación
+          h5 Elementos de una comunicación
         figure
           img(src='@/assets/curso/img10.svg', alt='Texto que describa la imagen')
-          figcaption Fuente: SENA, 2021.
+          figcaption SENA, 2021.
     p.mb-5 Como se evidencia en la figura anterior, toda comunicación debe contar con un emisor, un mensaje a enviar y un código que permite que el mensaje viaje por un canal. Para que ambos actores puedan interactuar se requiere contar con un código o lenguaje común, el cual permite que se puedan entender; ese estándar o lenguaje común, es lo que conocemos como un protocolo de comunicaciones, el cual es un conjunto de normas que están obligadas a cumplir todos los dispositivos, hardware y software que intervienen en una comunicación de datos entre computadoras y demás dispositivos, sin estas reglas o estándares la comunicación resultaría caótica y por tanto imposible.
       br
       br
